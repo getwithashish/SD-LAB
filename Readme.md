@@ -1,4 +1,3 @@
+# Java Echo Server
 
-|First Name |Second Name |
-| -----------|------------ |
-| this is cool | this is not cool |
+The server adds two numbers sent by the client and returns the sum to the client.
